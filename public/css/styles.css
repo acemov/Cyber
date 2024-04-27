@@ -1,6 +1,6 @@
 *{
-    background-color: rgb(49, 47, 47);
     box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
 }
 
 /* 
@@ -9,7 +9,44 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 */
 
-
+/* 
+º º º º º º º º º º º º HEADER º º º º º º º º º º º º 
+*/
+.header-index{
+    background-color: white;
+    height: 88px;
+}
+.header-index img{
+    width: 65.4px;
+    height: 22.67px;
+}
+/* 
+º º º º º º º º º º º º MAIN º º º º º º º º º º º º 
+*/
+.main-index{
+    background-color: #211C24;
+    height: 768px;
+    padding: 88px 16px 0 16px;
+}
+.Iphone-Text-1{
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #909090;
+}
+.Iphone-Text-2,.Iphone-Text-3{
+    color: white;
+}
+.Iphone-Text-4,.Iphone-Text-5{
+    color: #909090;
+}
+.main-index img{
+    width: 100%;
+}
+/* 
+º º º º º º º º º º º º FOOTER º º º º º º º º º º º º 
+*/
 
 /* 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
