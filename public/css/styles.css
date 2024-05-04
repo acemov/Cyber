@@ -200,6 +200,45 @@
     margin: 0px;
 }
 /* 
+- - - - - - - - - - Notebook - - - - - - - - - - 
+*/
+.notebook{
+    background-color: #EDEDED;
+    padding: 40px 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.notebook-img img, .notebook-img img{
+    width: 100%;
+}
+.notebook-p{
+    font-weight: bold;
+}
+.notebook-description-2{
+    color: #909090;
+    font-size: 15px;
+    margin: 0px;
+    text-align: center;
+    margin: 16px 0;
+}
+.notebook-img{
+    margin-bottom: 24px;
+}
+.notebook-description-1{
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+}
+.notebook-button{
+    background-color: rgba(138,221,45,0);
+    width: 100%;
+    padding: 16px 40px;
+    border: black solid 2px;
+    border-radius: 5px;
+}
+/* 
 º º º º º º º º º º º º FOOTER º º º º º º º º º º º º 
 */
 
